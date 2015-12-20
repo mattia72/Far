@@ -1,5 +1,8 @@
 # Far
 Far manager settings, tips &amp; tricks
+
+## Set navy blue backround
+Go to `Options` > `Colors` > `Panel` and set every blue background to navy blue by selecting (R:0,G:64,B:128) in the color settings dialog and uncheck `4 bit`.
 ![Screenshot](https://github.com/mattia72/Far/blob/master/Far%203.0.4400%20x86.png?raw=true "Screenshot")
 
 ## "Navy blue a'la NC" color schema for the editor
