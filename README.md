@@ -13,5 +13,7 @@ Far manager settings, tips &amp; tricks
 ```
 * In the editor of Far push <kbd>F11</kbd> then select `FarColorer`, then push <kbd>C</kbd> for configure.
 * Check Enabled under `TrueMod` settings (<kbd>n</kbd>) and set `Color style` (<kbd>t</kbd>) to `Navy blue a'la NC`.
+![Settings](https://github.com/mattia72/Far/blob/master/FarColorer-settings.png?raw=true "Settings")
+* If everithing went ok, you should see navy background in the editor:
 ![Screenshot](https://github.com/mattia72/Far/blob/master/edit-catalog-rgb.xml.png?raw=true "Screenshot")
 
